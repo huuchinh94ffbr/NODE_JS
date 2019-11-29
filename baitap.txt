@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+<ul>
+<li>dong 1 </li>
+<li>dong 2 </li>
+<li>dong 3 </li>
+</ul>
+<ol>
+<li>dong 1</li>
+<li style="background-color:yellow">dong 2</li>
+<li style="background-color:tomato;">dong 3   </li>
+</ol>
+<img src="img_girl.jpg" width="500" heigth="200">
+</body>
+</html>
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
