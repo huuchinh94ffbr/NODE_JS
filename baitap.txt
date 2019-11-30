@@ -1,25 +1,17 @@
-<!DOCTYPE html>
+<!DOCTYPE>
 <html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
-
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-<ul>
-<li>dong 1 </li>
-<li>dong 2 </li>
-<li>dong 3 </li>
-</ul>
-<ol>
-<li>dong 1</li>
-<li style="background-color:yellow">dong 2</li>
-<li style="background-color:tomato;">dong 3   </li>
-</ol>
-<img src="img_girl.jpg" width="500" heigth="200">
-</body>
+	<head>
+     <title>THIS IS Title</title>
+	</head>
+	<body>
+		<h1>This is H1 format</h1>
+        <h6>This is H6 format</h6>
+        <p>This is Paragraph</p>     
+        <ul>
+        <li style="background-color:yellow"> <img src="img_girl.jpg" height =100px >this is list fist</li>
+        <li style="background-color:red"><img src ="img_girl.jpg" height =100px>this is second</li>
+        <li style="background-color:yellow"><img src = "img_girl.jpg" height=100px>this is third</li>
+        <li style="background-color:red"><img src ="img_girl.jpg" height=100px> this is fourthly</li>
+        </ul>   
+	</body>
 </html>
-
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
